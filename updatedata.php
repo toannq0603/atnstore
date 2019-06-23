@@ -120,7 +120,7 @@ f8d783b470b6f7b1904fee5464f605225893f357c07d25359e4b8ac22f1078f1;dbname=ddfu3emr
 
 
 <!-- W3.CSS Container -->
-<div class="w3-light-grey w3-container w3-padding-32" style="margin-top:75px;padding-right:58px"><p class="w3-right">Powered by <a href="https://www.w3schools.com/w3css/default.asp" title="W3.CSS" target="_blank" class="w3-hover-opacity">w3.css</a></p></div>
+
 
 <script>
 // Script to open and close sidebar
