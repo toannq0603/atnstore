@@ -49,7 +49,7 @@ body {font-size:16px;}
     <h1 class="w3-xxxlarge w3-text-red"><b>Insert Database</b></h1>
     <hr style="width:50px;border:5px solid red" class="w3-round">
   </div>
-</div>
+
   
   
    <!-- Insert -->
