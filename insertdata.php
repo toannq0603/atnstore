@@ -51,7 +51,7 @@ body {font-size:16px;}
   </div>
 </div>
   
-  
+<div> 
    <!-- Insert -->
   <div class="w3-container" id="contact" style="margin-top:75px">
     <h1 class="w3-xxxlarge w3-text-red"><b></b></h1>
@@ -72,7 +72,7 @@ body {font-size:16px;}
       </div>
       <button type="submit" class="w3-button w3-block w3-padding-large w3-red w3-margin-bottom">Insert</button>
     </form>  
-
+  </div>
 
 <!-- End page content -->
 
@@ -115,7 +115,7 @@ f8d783b470b6f7b1904fee5464f605225893f357c07d25359e4b8ac22f1078f1;dbname=ddfu3emr
           }
         }
       ?>
-  </div>
+</div>
 
 
 
