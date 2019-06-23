@@ -69,7 +69,7 @@ body {font-size:16px;}
         <label>Revenue</label>
         <input class="w3-input w3-border" type="text" name="revenue" required="">
       </div>
-      <button type="submit" class="w3-button w3-block w3-padding-large w3-red w3-margin-bottom">Insert</button>
+      <button type="submit" class="w3-button w3-block w3-padding-large w3-red w3-margin-bottom" value="INSERT"></button>
     </form>  
   </div>
 
