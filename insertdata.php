@@ -53,7 +53,7 @@ body {font-size:16px;}
   
   
    <!-- Insert -->
-  <div class="w3-container" id="contact" style="margin-top:75px">
+  <div class="w3-container" id="contact" >
     <h1 class="w3-xxxlarge w3-text-red"><b></b></h1>
     <hr>
     <p>Do you want to add some information!</p>
