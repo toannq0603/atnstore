@@ -48,15 +48,15 @@ body {font-size:16px;}
   <div class="w3-container" style="margin-top:80px" id="showcase">
     <h1 class="w3-jumbo"><b>ATN toySTORE</b></h1>
     <h1 class="w3-xxxlarge w3-text-red"><b>Update Database</b></h1>
-    <hr style="width:50px;border:5px solid red" class="w3-round">
+    <hr style="width:50px>
   </div>
   
  
 
   <!-- Update -->
   <div class="w3-container" id="contact" style="margin-top:75px">
-    <h1 class="w3-xxxlarge w3-text-red"><b>Update Database</b></h1>
-    <hr style="width:50px;border:5px solid red" class="w3-round">
+    <h1 class="w3-xxxlarge w3-text-red"><b></b></h1>
+    <hr style="width:50px>
     <p>Do you want to update some information!</p>
     <form name="UpdateData" action="updatedata.php" method="POST">
       <div class="w3-section">
