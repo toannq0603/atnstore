@@ -55,8 +55,8 @@ body {font-size:16px;}
 
   <!-- Update -->
   <div class="w3-container" id="contact" style="margin-top:75px">
-    <h1 class="w3-xxxlarge w3-text-red"><b></b></h1>
-    <hr>
+    <h1 class="w3-xxxlarge w3-text-red"></h1>
+   
     <p>Do you want to update some information!</p>
     <form name="UpdateData" action="updatedata.php" method="POST">
       <div class="w3-section">

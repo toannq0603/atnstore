@@ -54,7 +54,7 @@ body {font-size:16px;}
   
    <!-- Insert -->
   <div class="w3-container" id="contact" >
-
+    <h1 class="w3-xxxlarge w3-text-red"></h1>
     
     <p>Do you want to add some information!</p>
     <form name="InsertData" action="insertdata.php" method="POST">
