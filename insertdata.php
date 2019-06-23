@@ -56,7 +56,7 @@ body {font-size:16px;}
     <h1 class="w3-xxxlarge w3-text-red"><b>Insert Database</b></h1>
     <hr style="width:50px;border:5px solid red" class="w3-round">
     <p>Do you want to add some information!</p>
-    <form action="#" target="_blank">
+    <form name="InsertData" action="insertdata.php" method="POST" target="_blank">
       <div class="w3-section">
         <label>Store ID</label>
         <input class="w3-input w3-border" type="text" name="storeid" required="">
