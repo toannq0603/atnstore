@@ -47,7 +47,7 @@ body {font-size:16px;}
   <div class="w3-container" style="margin-top:80px" id="showcase">
     <h1 class="w3-jumbo"><b>ATN toySTORE</b></h1>
     <h1 class="w3-xxxlarge w3-text-red"><b>Insert Database</b></h1>
-    <hr style="width:50px">
+    <hr style="width:50px;border:0px solid red" class="w3-round">
   </div>
 
   
@@ -55,7 +55,7 @@ body {font-size:16px;}
    <!-- Insert -->
   <div class="w3-container" id="contact" style="margin-top:75px">
     <h1 class="w3-xxxlarge w3-text-red"><b></b></h1>
-    <hr style="width:50px">
+    <hr>
     <p>Do you want to add some information!</p>
     <form name="InsertData" action="insertdata.php" method="POST">
       <div class="w3-section">

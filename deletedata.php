@@ -48,14 +48,14 @@ body {font-size:16px;}
   <div class="w3-container" style="margin-top:80px" id="showcase">
     <h1 class="w3-jumbo"><b>ATN toySTORE</b></h1>
     <h1 class="w3-xxxlarge w3-text-red"><b>Delete Database</b></h1>
-    <hr style="width:50px">
+    <hr style="width:50px;border:0px solid red" class="w3-round">
   </div>
   
   
 <!-- Delete -->
   <div class="w3-container" id="contact" style="margin-top:75px">
     <h1 class="w3-xxxlarge w3-text-red"><b></b></h1>
-    <hr style="width:50px">
+    <hr>
     <p>Do you want to delete some function!</p>
     <form name="DeleteData" action="deletedata.php" method="POST">
       <div class="w3-section">
@@ -87,7 +87,7 @@ f8d783b470b6f7b1904fee5464f605225893f357c07d25359e4b8ac22f1078f1;dbname=ddfu3emr
         ));
       }  
 
-      $sql = "DELETE FROM asm2 WHERE storeid = '$_POST[storeid]'";
+      $sql = "DELETE FROM managestore WHERE storeid = '$_POST[storeid]'";
       $stmt = $pdo->prepare($sql);
       if (is_null($_POST[accountant]) == FALSE){
         if($stmt->execute() == TRUE){
