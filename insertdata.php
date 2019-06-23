@@ -49,11 +49,12 @@ body {font-size:16px;}
     <h1 class="w3-xxxlarge w3-text-red"><b>Insert Database</b></h1>
     <hr style="width:50px;border:5px solid red" class="w3-round">
   </div>
+</div>
   
   
    <!-- Insert -->
   <div class="w3-container" id="contact" style="margin-top:75px">
-    <h1 class="w3-xxxlarge w3-text-red"><b>Insert Database</b></h1>
+    <h1 class="w3-xxxlarge w3-text-red"><b></b></h1>
     <hr style="width:50px;border:5px solid red" class="w3-round">
     <p>Do you want to add some information!</p>
     <form name="InsertData" action="insertdata.php" method="POST" target="_blank">
@@ -69,9 +70,9 @@ body {font-size:16px;}
         <label>Revenue</label>
         <input class="w3-input w3-border" type="text" name="revenue" required="">
       </div>
-      <button type="submit" class="w3-button w3-block w3-padding-large w3-red w3-margin-bottom" value="INSERT"></button>
+      <button type="submit" class="w3-button w3-block w3-padding-large w3-red w3-margin-bottom">Insert</button>
     </form>  
-  </div>
+
 
 <!-- End page content -->
 
@@ -114,7 +115,7 @@ f8d783b470b6f7b1904fee5464f605225893f357c07d25359e4b8ac22f1078f1;dbname=ddfu3emr
           }
         }
       ?>
-    </div>
+  </div>
 
 
 
