@@ -55,15 +55,15 @@ body {font-size:16px;}
   <!-- Photo grid (modal) -->
   <div class="w3-row-padding">
     <div class="w3-half">
-      <img src="image/kitchenconcrete.jpg" style="width:100%" onclick="onClick(this)" alt="Concrete meets bricks">
-      <img src="image/livingroom.jpg" style="width:100%" onclick="onClick(this)" alt="Light, white and tight scandinavian design">
-      <img src="image/diningroom.jpg" style="width:100%" onclick="onClick(this)" alt="White walls with designer chairs">
+      <img src="image/toy1.jpg" style="width:100%" onclick="onClick(this)" alt="Concrete meets bricks">
+      <img src="image/toy3.jpg" style="width:100%" onclick="onClick(this)" alt="Light, white and tight scandinavian design">
+      
     </div>
 
     <div class="w3-half">
-      <img src="image/atrium.jpg" style="width:100%" onclick="onClick(this)" alt="Windows for the atrium">
-      <img src="image/bedroom.jpg" style="width:100%" onclick="onClick(this)" alt="Bedroom and office in one space">
-      <img src="image/livingroom2.jpg" style="width:100%" onclick="onClick(this)" alt="Scandinavian design">
+      <img src="image/toy2.jpg" style="width:100%" onclick="onClick(this)" alt="Windows for the atrium">
+      <img src="image/toy4.jpg" style="width:100%" onclick="onClick(this)" alt="Bedroom and office in one space">
+      
     </div>
   </div>
 
@@ -99,7 +99,7 @@ body {font-size:16px;}
   <div class="w3-row-padding w3-grayscale">
     <div class="w3-col m4 w3-margin-bottom">
       <div class="w3-light-grey">
-        <img src="image/team2.jpg" alt="John" style="width:100%">
+        <img src="image/team0.jpg" alt="John" style="width:100%">
         <div class="w3-container">
           <h3>Mr. Châu</h3>
           <p class="w3-opacity">CEO &amp; Founder</p>
@@ -109,7 +109,7 @@ body {font-size:16px;}
     </div>
     <div class="w3-col m4 w3-margin-bottom">
       <div class="w3-light-grey">
-        <img src="image/team1.jpg" alt="Jane" style="width:100%">
+        <img src="image/team0.jpg" alt="Jane" style="width:100%">
         <div class="w3-container">
           <h3>Mr. Khánh</h3>
           <p class="w3-opacity">Designer</p>
@@ -119,7 +119,7 @@ body {font-size:16px;}
     </div>
     <div class="w3-col m4 w3-margin-bottom">
       <div class="w3-light-grey">
-        <img src="image/team3.jpg" alt="Mike" style="width:100%">
+        <img src="image/team0.jpg" alt="Mike" style="width:100%">
         <div class="w3-container">
           <h3>Mr. Sad</h3>
           <p class="w3-opacity">No role</p>
