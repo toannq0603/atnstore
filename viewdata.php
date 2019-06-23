@@ -51,29 +51,7 @@ body {font-size:16px;}
     <hr style="width:50px">
   </div>
   
-  <!-- Insert -->
-  <div class="w3-container" id="contact" style="margin-top:75px">
-    <h1 class="w3-xxxlarge w3-text-red"><b>Insert Database</b></h1>
-    <hr style="width:50px;border:5px solid red" class="w3-round">
-    <p>Do you want to add some information!</p>
-    <form action="#" target="_blank">
-      <div class="w3-section">
-        <label>Store ID</label>
-        <input class="w3-input w3-border" type="text" name="storeid" required="">
-      </div>
-      <div class="w3-section">
-        <label>Accountant</label>
-        <input class="w3-input w3-border" type="text" name="accountant" required="">
-      </div>
-      <div class="w3-section">
-        <label>Revenue</label>
-        <input class="w3-input w3-border" type="text" name="revenue" required="">
-      </div>
-      <button type="submit" class="w3-button w3-block w3-padding-large w3-red w3-margin-bottom">Insert</button>
-    </form>  
-  </div>
 
-<!-- End page content -->
 
   <?php
     if (empty(getenv("DATABASE_URL"))){
