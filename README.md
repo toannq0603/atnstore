@@ -1,1 +1,1 @@
-# Thu
+# Assignment 2 Cloud Computing
