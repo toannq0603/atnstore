@@ -54,9 +54,9 @@ body {font-size:16px;}
   
    <!-- Insert -->
   <div class="w3-container" id="contact" >
-    <h1 class="w3-xxxlarge w3-text-red"></h1>
+    <h1 class="w3-xxxlarge w3-text-red">Do you want to add some information!</h1>
     
-    <p>Do you want to add some information!</p>
+    
     <form name="InsertData" action="insertdata.php" method="POST">
       <div class="w3-section">
         <label>Store ID</label>
@@ -124,7 +124,7 @@ f8d783b470b6f7b1904fee5464f605225893f357c07d25359e4b8ac22f1078f1;dbname=ddfu3emr
 
 
 <!-- W3.CSS Container -->
-
+<div class="w3-light-grey w3-container w3-padding-32" style="margin-top:75px;padding-right:58px"><p class="w3-right">Create by <a href="#" title="Toàn đẹp trai" target="_blank" class="w3-hover-opacity">Toàn</a></p></div>
 
 <script>
 // Script to open and close sidebar
