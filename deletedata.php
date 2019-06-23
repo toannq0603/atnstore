@@ -23,11 +23,11 @@ body {font-size:16px;}
     <h3 class="w3-padding-64"><b>ATN<br>ToyStore</b></h3>
   </div>
   <div class="w3-bar-block">
-    <a href="ATNtoySTORE.php" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Home</a> 
-    <a href="ATNtoySTORE_view.php" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Database View</a> 
-    <a href="ATNtoySTORE_insert.php" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Database Insert</a> 
-    <a href="ATNtoySTORE_update.php" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Database Update</a> 
-    <a href="ATNtoySTORE_delete.php" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Database Delete</a> 
+    <a href="index.php" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Home</a> 
+    <a href="viewdata.php" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Database View</a> 
+    <a href="insertdata.php" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Database Insert</a> 
+    <a href="updatedata.php" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Database Update</a> 
+    <a href="deletedata.php" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Database Delete</a> 
     <a href="#" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Contact</a>
   </div>
 </nav>
