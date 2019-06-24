@@ -138,7 +138,7 @@ body {font-size:16px;}
 </div>
 
 <!-- W3.CSS Container -->
-<div class="w3-light-grey w3-container w3-padding-32" style="margin-top:75px;padding-right:58px"><p class="w3-right">Create by <a href="#" title="Toàn đẹp trai" target="_blank" class="w3-hover-opacity">Toàn</a></p></div>
+<div class="w3-light-grey w3-container w3-padding-32" style="margin-top:75px;padding-right:58px"><p class="w3-right">Created by <a href="#" title="Toàn đẹp trai" target="_blank" class="w3-hover-opacity">Toàn</a></p></div>
 
 <script>
 // Script to open and close sidebar
